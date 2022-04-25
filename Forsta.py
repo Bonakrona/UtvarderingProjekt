@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from logging.handlers import BaseRotatingHandler
 
 
@@ -18,3 +19,14 @@ print(new_dict)
 #
 #word_count = read_data.lower().count(search_word_count)
 #print(f"The word '{search_word_count}' appeard {word_count} times.")
+=======
+print("hello man hej på  diiiiig man")
+if dinMamma is Snygg:
+    Banga
+
+
+for freddi in felix:
+    if kyss:
+        giftermå
+        return
+>>>>>>> 794c0a5e68076efa52a9c782f111a91a4cde379d
