@@ -50,8 +50,8 @@ sorted_dict = {}
 for w in sorted_keys:
     sorted_dict[w] = new_dict[w]
 
-print(sorted_dict)
-
+top = list(sorted_dict.items())[:20] #gör en lista av dem N (här 20) första elementen i dictionary
+print(top)
 
 
 
