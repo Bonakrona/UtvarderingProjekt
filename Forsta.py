@@ -3,7 +3,8 @@ if dinMamma is Snygg:
     Banga
 
 
-for freddi in felix:
-    if kyss:
-        giftermå
-        return
+def broder():
+    for freddi in felix:
+        if kyss:
+            giftermå
+            return
