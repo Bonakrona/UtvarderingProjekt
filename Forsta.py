@@ -1,6 +1,27 @@
 from logging.handlers import BaseRotatingHandler
 
 
+
+file = open('skriv.txt','r', encoding='utf8')
+new_dict=dict()
+read_data = file.read()
+split_data = read_data.split()
+for line in split_data:
+    stripped_line = line.strip()
+    if stripped_line in new_dict.keys():
+        new_dict[stripped_line] = int(new_dict.get(stripped_line))+1
+    else: new_dict[stripped_line] = 1
+
+
+sorted_keys = sorted(new_dict, key=new_dict.get, reverse=True)  # [1, 3, 2]
+sorted_dict = {}
+for w in sorted_keys:
+    sorted_dict[w] = new_dict[w]
+
+top = list(sorted_dict.items())[:20] #gör en lista av dem N (här 20) första elementen i dictionary
+print(top)
+
+
 #function that consider last element as pivot,   
 #place the pivot at its exact position, and place   
 #smaller elements to left of pivot and greater   
@@ -34,27 +55,6 @@ from logging.handlers import BaseRotatingHandler
   
 
 #search_word_count = input('Enter the word')
-file = open('skriv.txt','r', encoding='utf8')
-new_dict=dict()
-read_data = file.read()
-split_data = read_data.split()
-for line in split_data:
-    stripped_line = line.strip()
-    if stripped_line in new_dict.keys():
-        new_dict[stripped_line] = int(new_dict.get(stripped_line))+1
-    else: new_dict[stripped_line] = 1
-
-
-sorted_keys = sorted(new_dict, key=new_dict.get, reverse=True)  # [1, 3, 2]
-sorted_dict = {}
-for w in sorted_keys:
-    sorted_dict[w] = new_dict[w]
-
-top = list(sorted_dict.items())[:20] #gör en lista av dem N (här 20) första elementen i dictionary
-print(top)
-
-
-
 
 #quick(a, 0, len(a)-1) 
 #print("\nAfter sorting array elements are - ")  
