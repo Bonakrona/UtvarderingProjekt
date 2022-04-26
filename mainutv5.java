@@ -9,6 +9,11 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.Set;
 
+//import re
+//string = open('a.txt').read()
+//new_str = re.sub('[^a-zA-Z0-9\n\.]', ' ', string)
+//open('b.txt', 'w').write(new_str)
+
 public class mainutv5 {
 
 	public static void main(String[] args) throws FileNotFoundException {
