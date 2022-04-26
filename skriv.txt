@@ -1,580 +1,1831 @@
-Written in 1787, ratified in 1788, and in operation since 1789, the United States Constitution is the world’s longest surviving written charter of government. Its first three words – “We The People” – affirm that the government of the United States exists to serve its citizens. The supremacy of the people through their elected representatives is recognized in Article I, which creates a Congress consisting of a Senate and a House of Representatives. The positioning of Congress at the beginning of the Constitution affirms its status as the “First Branch” of the federal government.
-
-The Constitution assigned to Congress responsibility for organizing the executive and judicial branches, raising revenue, declaring war, and making all laws necessary for executing these powers. The president is permitted to veto specific legislative acts, but Congress has the authority to override presidential vetoes by two-thirds majorities of both houses. The Constitution also provides that the Senate advise and consent on key executive and judicial appointments and on the approval for ratification of treaties.
-
-For over two centuries the Constitution has remained in force because its framers successfully separated and balanced governmental powers to safeguard the interests of majority rule and minority rights, of liberty and equality, and of the federal and state governments. More a concise statement of national principles than a detailed plan of governmental operation, the Constitution has evolved to meet the changing needs of a modern society profoundly different from the eighteenth-century world in which its creators lived. To date, the Constitution has been amended 27 times, most recently in 1992. The first ten amendments constitute the Bill of Rights.
-
-Annotated Constitutions
-
-The Constitution of the United States of America: Analysis and Interpretation (popularly known as the Constitution Annotated) contains legal analysis and interpretation of the United States Constitution, based primarily on Supreme Court case law.
-
-The Constitution of the United States of America, S.PUB.103-21 (1994) (PDF), prepared by the Office of the Secretary of the Senate with the assistance of Johnny H. Killian of the Library of Congress in 1994, provided the original text of each clause of the Constitution with an accompanying explanation of its meaning and how that meaning changed over time.
-
-Italicized text indicates words and passages of the Constitution that were changed or affected by amendments.
-
-
-Original Text
-
-Preamble
-We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
-
-
-Article I
-Section 1   Section 2   Section 3   Section 4   Section 5   Section 6   Section 7   
-Section 8   Section 9   Section 10   
-
-Section 1
-All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.
-
-
-Section 2
-
-The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.
-
-
-No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen.
-
-
-Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons. The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct. The Number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.
-
-
-When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies.
-
-
-The House of Representatives shall chuse their Speaker and other Officers; and shall have the sole Power of Impeachment.
-
-
-Section 3
-
-The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote.
-
-Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year; and if Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies.
-
-
-No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen.
-
-
-The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided.
-
-
-The Senate shall chuse their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of President of the United States.
-
-
-The Senate shall have the sole Power to try all Impeachments. When sitting for that Purpose, they shall be on Oath or Affirmation. When the President of the United States is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.
-
-Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.
-
-
-Section 4
-The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators.
-
-The Congress shall assemble at least once in every Year, and such Meeting shall be on the first Monday in December, unless they shall by Law appoint a different Day.
-
-
-Section 5
-
-Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide.
-
-Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member.
-
-
-Each House shall keep a Journal of its Proceedings, and from time to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal.
-
-
-Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days, nor to any other Place than that in which the two Houses shall be sitting.
-
-
-Section 6
-
-The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the United States. They shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
-
-
-No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of the United States, which shall have been created, or the Emoluments whereof shall have been encreased during such time; and no Person holding any Office under the United States, shall be a Member of either House during his Continuance in Office.
-
- 
-
-
-Section 7
-
-All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills.
-
-
-Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the President of the United States: If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it.  If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law. But in all such Cases the Votes of both Houses shall be determined by Yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively. If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
-
-Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.
-
-
-Section 8
-
-The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States; but all Duties, Imposts and Excises shall be uniform throughout the United States;
-
-
-To borrow Money on the credit of the United States;
-
-
-To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes;
-
-
-To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States;
-
-
-To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;
-
-To provide for the Punishment of counterfeiting the Securities and current Coin of the United States;
-
-
-To establish Post Offices and post Roads;
-
- 
-
-
-To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries;
-
-
-To constitute Tribunals inferior to the supreme Court;
-
-
-To define and punish Piracies and Felonies committed on the high Seas, and Offences against the Law of Nations;
-
-
-To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water;
-
-To raise and support Armies, but no Appropriation of Money to that Use shall be for a longer Term than two Years;
-
-To provide and maintain a Navy;
-
-To make Rules for the Government and Regulation of the land and naval Forces;
-
-
-To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;
-
-To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the United States, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress;
-
-
-To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government of the United States, and to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards, and other needful Buildings;—And
-
-
-To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof.
-
-
-Section 9
-
-The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress prior to the Year one thousand eight hundred and eight, but a Tax or duty may be imposed on such Importation, not exceeding ten dollars for each Person.
-
-
-The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.
-
-
-No Bill of Attainder or ex post facto Law shall be passed.
-
-
-No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or enumeration herein before directed to be taken.
-
-No Tax or Duty shall be laid on Articles exported from any State.
-
-No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another; nor shall Vessels bound to, or from, one State, be obliged to enter, clear, or pay Duties in another.
-
-
-No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time.
-
-
-No Title of Nobility shall be granted by the United States: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State.
-
-
-Section 10
-No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.
-
-No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing its inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of the United States; and all such Laws shall be subject to the Revision and Control of the Congress.
-
-No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
-
-
-Article II
-Section 1   Section 2   Section 3   Section 4   
-
-Section 1
-
-The executive Power shall be vested in a President of the United States of America. He shall hold his Office during the Term of four Years, and, together with the Vice President, chosen for the same Term, be elected, as follows:
-
-
-Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector.
-
-
-The Electors shall meet in their respective States, and vote by Ballot for two Persons, of whom one at least shall not be an Inhabitant of the same State with themselves. And they shall make a List of all the Persons voted for, and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate. The President of the Senate shall, in the Presence of the Senate and House of Representatives, open all the Certificates, and the Votes shall then be counted. The Person having the greatest Number of Votes shall be the President, if such Number be a Majority of the whole Number of Electors appointed; and if there be more than one who have such Majority, and have an equal Number of Votes, then the House of Representatives shall immediately chuse by Ballot one of them for President; and if no Person have a Majority, then from the five highest on the List the said House shall in like Manner chuse the President. But in chusing the President, the Votes shall be taken by States, the Representatives from each State having one Vote; a quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice. In every Case, after the Choice of the President, the Person having the greatest Number of Votes of the Electors shall be the Vice President. But if there should remain two or more who have equal Votes, the Senate shall chuse from them by Ballot the Vice-President.
-
-
-The Congress may determine the Time of chusing the Electors, and the Day on which they shall give their Votes; which Day shall be the same throughout the United States.
-
-
-No Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States.
-
-
-In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected.
-
-
-The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them.
-
-
-Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation:—"I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States."
-
-
-Section 2
-
-The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States; he may require the Opinion, in writing, of the principal Officer in each of the executive Departments, upon any Subject relating to the Duties of their respective Offices, and he shall have Power to Grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.
-
-
-He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments.
-
-
-The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next Session.
-
-
-Section 3
-
-He shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene both Houses, or either of them, and in Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper; he shall receive Ambassadors and other public Ministers; he shall take Care that the Laws be faithfully executed, and shall Commission all the Officers of the United States.
-
-
-Section 4
-
-The President, Vice President and all Civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.
-
-
-Article III
-Section 1   Section 2   Section 3   
-
-Section 1
-
-The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behaviour, and shall, at stated Times, receive for their Services, a Compensation, which shall not be diminished during their Continuance in Office.
-
-
-Section 2
-
-The judicial Power shall extend to all Cases, in Law and Equity, arising under this Constitution, the Laws of the United States, and Treaties made, or which shall be made, under their Authority;—to all Cases affecting Ambassadors, other public ministers and Consuls;—to all Cases of admiralty and maritime Jurisdiction;—to Controversies to which the United States shall be a Party;—to Controversies between two or more States;—between a State and Citizens of another State;—between Citizens of different States;—between Citizens of the same State claiming Lands under Grants of different States, and between a State, or the Citizens thereof, and foreign States, Citizens or Subjects.
-
-
-In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction. In all the other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make.
-
-
-The Trial of all Crimes, except in Cases of Impeachment, shall be by Jury; and such Trial shall be held in the State where the said Crimes shall have been committed; but when not committed within any State, the Trial shall be at such Place or Places as the Congress may by Law have directed.
-
-
-Section 3
-
-Treason against the United States, shall consist only in levying War against them, or in adhering to their Enemies, giving them Aid and Comfort. No Person shall be convicted of Treason unless on the Testimony of two Witnesses to the same overt Act, or on Confession in open Court.
-
-The Congress shall have Power to declare the Punishment of Treason, but no Attainder of Treason shall work Corruption of Blood, or Forfeiture except during the Life of the Person attainted.
-
-
-Article IV
-Section 1   Section 2   Section 3   Section 4   
-
-Section 1
-
-Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State. And the Congress may by general Laws prescribe the Manner in which such Acts, Records and Proceedings shall be proved, and the Effect thereof.
-
-
-Section 2
-
-The Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States.
-
-
-A Person charged in any State with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State, shall on Demand of the executive Authority of the State from which he fled, be delivered up, to be removed to the State having Jurisdiction of the Crime.
-
-
-No Person held to Service or Labour in one State, under the Laws thereof, escaping into another, shall, in Consequence of any Law or Regulation therein, be discharged from such Service or Labour, but shall be delivered up on Claim of the Party to whom such Service or Labour may be due.
-
-
-Section 3
-
- New States may be admitted by the Congress into this Union; but no new State shall be formed or erected within the Jurisdiction of any other State; nor any State be formed by the Junction of two or more States, or Parts of States, without the Consent of the Legislatures of the States concerned as well as of the Congress.
-
-
-The Congress shall have Power to dispose of and make all needful Rules and Regulations respecting the Territory or other Property belonging to the United States; and nothing in this Constitution shall be so construed as to Prejudice any Claims of the United States, or of any particular State.
-
-
-Section 4
-
-The United States shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence.
-
-
-Article V
-   
-The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; Provided that no Amendment which may be made prior to the Year One thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no State, without its Consent, shall be deprived of its equal Suffrage in the Senate.
-
-
-Article VI
-            
-All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation.
-
-This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any state to the Contrary notwithstanding.
-
-The Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States.
-
-
-Article VII
-   
-The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.
-
-Done in Convention by the Unanimous Consent of the States present the Seventeenth Day of September in the Year of our Lord one thousand seven hundred and Eighty seven and of the Independence of the United States of America the Twelfth In Witness whereof We have hereunto subscribed our Names,
-
-                                Go. Washington—Presidt.
-
-                                And deputy from Virginia 
-
-                New Hampshire               John Langdon
-
-                                                                Nicholas Gilman
-
-                 Massachusetts                  Nathaniel Gorham
-
-                                                                Rufus King
-
-                 Connecticut                        Wm. Saml. Johnson
-
-                                                                Roger Sherman
-
-                 New York                            Alexander Hamilton
-
-                 New Jersey                        Wil: Livingston
-
-                                                                David Brearley
-
-                                                                Wm. Paterson
-
-                                                                Jona. Dayton
-
-                 Pennsylvania                     B Franklin
-
-                                                                Thomas Mifflin
-
-                                                                Robt Morris
-
-                                                                Geo. Clymer
-
-                                                                Thos. FitzSimons
-
-                                                                Jared Ingersoll
-
-                                                                James Wilson
-
-                                                                Gouv Morris
-
-                 Delaware                             Geo: Read
-
-                                                                Gunning Bedford jun
-
-                                                                John Dickinson
-
-                                                                Richard Bassett
-
-                                                                Jaco: Broom
-
-                 Maryland                             James McHenry
-
-                                                                Dan of St. Thos. Jenifer
-
-                                                                Danl Carroll
-
-                 Virginia                                 John Blair—
-
-                                                               James Madison Jr.
-
-                North Carolina                   Wm. Blount
-
-                                                                Richd. Dobbs Spaight
-
-                                                                Hu Williamson
-
-                 South Carolina                   J. Rutledge
-
-                                                                Charles Cotesworth Pinckney
-
-                                                                Charles Pinckney
-
-                                                                Pierce Butler
-
-                 Georgia                                William Few
-
-                                                                Abr Baldwin
-
-                 Attest William Jackson Secretary
-
-
-
-AMENDMENTS
-Amendment I (1791)   Amendment II (1791)   
-Amendment III (1791)   Amendment IV (1791)   
-Amendment V (1791)   Amendment VI (1791)   
-Amendment VII (1791)   Amendment VIII (1791)   
-Amendment IX (1791)   Amendment X (1791)   
-Amendment XI (1795/1798)   Amendment XII (1804)   
-Amendment XIII (1865)   Amendment XIV (1868)   
-Amendment XV (1870)   Amendment XVI (1913)   
-Amendment XVII (1913)   Amendment XVIII (1919)   
-Amendment XIX (1920)   Amendment XX (1933)   
-Amendment XXI (1933)   Amendment XXII (1951)   
-Amendment XXIII (1961)   Amendment XXIV (1964)   
-Amendment XXV (1967)   Amendment XXVI (1971)   
-Amendment XXVII (1992)   
-
-Amendment I (1791)
-Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
-
-
-Amendment II (1791)
-A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
-
-
-Amendment III (1791)
-No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.
-
-
-Amendment IV (1791)
-The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
-
-
-Amendment V (1791)
-No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of War or public danger; nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
-
-
-Amendment VI (1791)
-In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the Assistance of Counsel for his defence.
-
-
-Amendment VII (1791)
-In Suits at common law, where the value in controversy shall exceed twenty dollars, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.
-
-
-Amendment VIII (1791)
-Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.
-
-
-Amendment IX (1791)
-The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
-
-
-Amendment X (1791)
-The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.
-
-
-Amendment XI (1795/1798)
-The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
-
-
-Amendment XII (1804)
-The Electors shall meet in their respective states and vote by ballot for President and Vice-President, one of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate;—The President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted;—The person having the greatest Number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice. And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the Vice-President shall act as President, as in the case of the death or other constitutional disability of the President—The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States.
-
-
-Amendment XIII (1865)
-Section 1. Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.
-
-Section 2. Congress shall have power to enforce this article by appropriate legislation.
-
-
-Amendment XIV (1868)
-Section 1. All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
-
-Section 2. Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to vote at any election for the choice of electors for President and Vice President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being twenty-one years of age, and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.
-
-Section 3. No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability.
-
-Section 4. The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.
-
-Section 5. The Congress shall have power to enforce, by appropriate legislation, the provisions of this article.
-
-
-Amendment XV (1870)
-Section 1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
-
-Section 2. The Congress shall have power to enforce this article by appropriate legislation.
-
-
-Amendment XVI (1913)
-The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.
-
-
-Amendment XVII (1913)
-The Senate of the United States shall be composed of two Senators from each State, elected by the people thereof, for six years; and each Senator shall have one vote. The electors in each State shall have the qualifications requisite for electors of the most numerous branch of the State legislatures.
-
-When vacancies happen in the representation of any State in the Senate, the executive authority of such State shall issue writs of election to fill such vacancies: Provided, That the legislature of any State may empower the executive thereof to make temporary appointments until the people fill the vacancies by election as the legislature may direct.
-
-This amendment shall not be so construed as to affect the election or term of any Senator chosen before it becomes valid as part of the Constitution.
-
-
-Amendment XVIII (1919)
-Section 1. After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.
-
-Section 2. The Congress and the several States shall have concurrent power to enforce this article by appropriate legislation.
-
-Section 3. This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
-
-
-Amendment XIX (1920)
-The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.
-
-Congress shall have power to enforce this article by appropriate legislation.
-
-
-Amendment XX (1933)
-Section 1. The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.
-
-Section 2. The Congress shall assemble at least once in every year, and such meeting shall begin at noon on the 3d day of January, unless they shall by law appoint a different day.
-
-Section 3. If, at the time fixed for the beginning of the term of the President, the President elect shall have died, the Vice President elect shall become President. If a President shall not have been chosen before the time fixed for the beginning of his term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President shall have qualified; and the Congress may by law provide for the case wherein neither a President elect nor a Vice President elect shall have qualified, declaring who shall then act as President, or the manner in which one who is to act shall be selected, and such person shall act accordingly until a President or Vice President shall have qualified.
-
-Section 4. The Congress may by law provide for the case of the death of any of the persons from whom the House of Representatives may choose a President whenever the right of choice shall have devolved upon them, and for the case of the death of any of the persons from whom the Senate may choose a Vice President whenever the right of choice shall have devolved upon them.
-
-Section 5. Sections 1 and 2 shall take effect on the 15th day of October following the ratification of this article.
-
-Section 6. This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission.
-
-
-Amendment XXI (1933)
-Section 1. The eighteenth article of amendment to the Constitution of the United States is hereby repealed.
-
-Section 2.  The transportation or importation into any State, Territory, or possession of the United States for delivery or use therein of intoxicating liquors, in violation of the laws thereof, is hereby prohibited.
-
-Section 3.  This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by conventions in the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
-
-
-Amendment XXII (1951)
-Section 1. No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once. But this Article shall not apply to any person holding the office of President, when this Article was proposed by the Congress, and shall not prevent any person who may be holding the office of President, or acting as President, during the term within which this Article becomes operative from holding the office of President or acting as President during the remainder of such term.
-
-Section 2. This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission to the States by the Congress.
-
-
-Amendment XXIII (1961)
-Section 1. The District constituting the seat of Government of the United States shall appoint in such manner as the Congress may direct:
-
-A number of electors of President and Vice President equal to the whole number of Senators and Representatives in Congress to which the District would be entitled if it were a State, but in no event more than the least populous State; they shall be in addition to those appointed by the States, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a State; and they shall meet in the District and perform such duties as provided by the twelfth article of amendment.
-
-Section 2. The Congress shall have power to enforce this article by appropriate legislation.
-
-
-Amendment XXIV (1964)
-Section 1. The right of citizens of the United States to vote in any primary or other election for President or Vice President for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax or other tax.
-
-Section 2. The Congress shall have power to enforce this article by appropriate legislation.
-
-
-Amendment XXV (1967)
-Section 1. In case of the removal of the President from office or of his death or resignation, the Vice President shall become President.
-
-Section 2. Whenever there is a vacancy in the office of the Vice President, the President shall nominate a Vice President who shall take office upon confirmation by a majority vote of both Houses of Congress.
-
-Section 3. Whenever the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that he is unable to discharge the powers and duties of his office, and until he transmits to them a written declaration to the contrary, such powers and duties shall be discharged by the Vice President as Acting President.
-
-Section 4. Whenever the Vice President and a majority of either the principal officers of the executive departments or of such other body as Congress may by law provide, transmit to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office, the Vice President shall immediately assume the powers and duties of the office as Acting President.
-
-Thereafter, when the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that no inability exists, he shall resume the powers and duties of his office unless the Vice President and a majority of either the principal officers of the executive department or of such other body as Congress may by law provide, transmit within four days to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office. Thereupon Congress shall decide the issue, assembling within forty-eight hours for that purpose if not in session. If the Congress, within twenty-one days after receipt of the latter written declaration, or, if Congress is not in session, within twenty-one days after Congress is required to assemble, determines by two-thirds vote of both Houses that the President is unable to discharge the powers and duties of his office, the Vice President shall continue to discharge the same as Acting President; otherwise, the President shall resume the powers and duties of his office.
-
-
-Amendment XXVI (1971)
-Section 1. The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age.
-
-Section 2. The Congress shall have power to enforce this article by appropriate legislation.
-
-
-Amendment XXVII (1992)
-No law varying the compensation for the services of the Senators and Representatives shall take effect, until an election of Representatives shall have intervened.
-
+1.
+1 INT. CASTLE INTERIOR 1
+There is a bed onstage behind a silky curtain, backlit.
+PRINCE CHARMING (OS)
+Once upon a time in a kingdom far,
+far away, the king and queen were
+blessed with a beautiful baby girl.
+And throughout the land, everyone
+was happy... until the sun went down
+and they saw that their daughter was
+cursed with a frightful enchantment
+that took hold each and every night.
+Desperate, they sought the help of a
+fairy godmother who had them lock
+the young princess away in a tower,
+there to await the kiss... of the
+handsome Prince Charming.
+(enters gallantly onstage)
+It was he who would chance the
+perilous journey through blistering
+cold and scorching desert traveling
+for many days and nights, risking
+life and limb to reach the Dragon's
+keep. For he was the bravest, and
+most handsome... in all the land.
+(looks at the audience)
+And it was destiny that his kiss
+would break the dreaded curse. He
+alone would climb to the highest
+room of the tallest tower to enter
+the princess's chambers, cross the
+room to her sleeping silhouette,
+pull back the gossamer curtains to
+find her...
+(pulls back the curtain to
+reveal WOLF in the bed.
+Gasps)
+WOLF
+What?
+CHARMING
+Princess... Fiona?
+WOLF
+No!
+CHARMING
+(relieved)
+Thank heavens. Where is she?
+2.
+WOLF
+She's on her honeymoon.
+CHARMING
+Honeymoon? With whom?
+2 EXT. THE SWAMP 2
+SHREK
+It's so good to be home! Just you
+and me and...
+DONKEY
+(offstage)
+One is the loneliest number that you
+ever do...
+(enters)
+Two can be as bad as one...
+SHREK
+Donkey?
+DONKEY
+Shrek! Fiona! Aren't you two a sight
+for sore eyes! Give us a hug, Shrek,
+you old love machine. And look at
+you, Mrs. Shrek. How 'bout a side of
+sugar for the steed?
+SHREK
+Donkey, what are you doing here?
+DONKEY
+Taking care of your love nest for
+you.
+SHREK
+Oh, you mean like... sorting the
+mail and watering the plants?
+DONKEY
+Yeah, and feeding the fish!
+SHREK
+I don't have any fish.
+DONKEY
+You did.
+(looks around for the
+fish)
+SHREK
+3.
+Look at the time. I guess you'd
+better be going.
+DONKEY
+Don't you want to tell me about your
+trip? Or how about a game of
+Parcheesi?
+FIONA
+Actually, Donkey? Shouldn't you be
+getting home to Dragon?
+DONKEY
+Oh, yeah, that. I don't know. She's
+been all moody and stuff lately. I
+thought I'd move in with you.
+FIONA
+You know we're always happy to see
+you, Donkey.
+SHREK
+But Fiona and I are married now. We
+need a little time, you know, to be
+together. Just with each other.
+Alone.
+DONKEY
+Say no more. You don't have to worry
+about a thing. I will always be here
+to make sure nobody bothers you.
+SHREK
+Donkey!
+DONKEY
+Yes, roomie?
+SHREK
+You're bothering me.
+DONKEY
+Oh, OK. All right, cool. I guess...
+Me and Pinocchio was going to catch
+a tournament, anyway, so...Maybe
+I'll see y'all Sunday for a barbecue
+or something.
+SHREK
+He'll be fine. Now, where were we?
+(giggles)
+Oh.I think I remember. Donkey!
+DONKEY
+4.
+I know, I know! Alone! I'm going!
+I'm going. What do you want me to
+tell these other guys?
+ROYAL MESSENGER enters to fanfare.
+MESSENGER
+(clears throat)
+"Dearest Princess Fiona. You are
+hereby summoned to the Kingdom of
+Far, Far Away for a royal ball in
+celebration of your marriage at
+which time the King will bestow his
+royal blessing... upon you and
+your...uh... Prince Charming. Love,
+the King and Queen of Far, Far Away.
+aka Mom and Dad."
+FIONA
+Mom and Dad?
+SHREK
+Prince Charming?
+DONKEY
+Royal ball? Can I come?
+SHREK
+We're not going.
+FIONA & DONKEY
+What?
+SHREK
+I mean, don't you think they might
+be a bit...shocked to see you like
+this?
+FIONA
+Well, they might be a bit surprised.
+But they're my parents, Shrek. They
+love me. And don't worry. They'll
+love you, too.
+SHREK
+Yeah, right. Somehow I don't think
+I'll be welcome at the country club.
+FIONA
+Stop it. They're not like that.
+SHREK
+How do you explain Sergeant Pompous
+and the Fancy Pants Club Band?
+5.
+FIONA
+Oh, come on! You could at least give
+them a chance.
+SHREK
+To do what? Sharpen their
+pitchforks?
+FIONA
+No! They just want to give you their
+blessing.
+SHREK
+Oh, great. Now I need their
+blessing?
+FIONA
+If you want to be a part of this
+family, yes!
+SHREK
+Who says I want to be part of this
+family?
+FIONA
+You did! When you married me!
+SHREK
+Well, there's some fine print for
+you!
+FIONA
+(exasperated sigh)
+So that's it. You won't come?
+SHREK
+Trust me. It's a bad idea. We are
+not going! And that's final!
+ALL exit.
+3 EXT. SHREK SWAMP 3
+SHREK, DONKEY and FIONA re-enter with GINGY and PINOCHIO.
+SHREK is carrying luggage.
+GINGY
+(walking by and picking up
+the ‘warning, Ogres sign’)
+Don't worry! We'll take care of
+everything.
+6.
+PINOCHIO
+Hey, wait for me.
+DONKEY
+Hit it! Move 'em on! Head 'em up!
+Head 'em up, move 'em on! Head 'em
+up! Move ‘em on, Rawhide! Knock 'em
+out! Pound 'em dead! Make 'em tea!
+Buy 'em drinks! Meet their mamas!
+Milk 'em hard! Rawhide! Yeehaw!
+SHREK, FIONA and DONKEY pass back and forth on the stage
+every time the E/E (Enter/exit symbol appears)
+DONKEY
+Are we there yet?
+SHREK
+No.
+DONKEY
+Are we there yet?
+FIONA
+Not yet.
+DONKEY
+OK, are we there yet?
+SHREK
+No.
+DONKEY
+Are we there yet?
+FIONA
+No!
+DONKEY
+Are we there yet?
+SHREK
+Yes.
+DONKEY
+Really?
+SHREK
+No!
+DONKEY
+Are we there yet?
+SHREK & FIONA
+7.
+No!
+DONKEY
+Are we there yet?
+SHREK
+(mimics)
+Are we there yet?
+DONKEY
+That's not funny. That's really
+immature.
+SHREK
+That's not funny. That's really
+immature.
+DONKEY
+This is why nobody likes ogres.
+SHREK
+This is why nobody likes ogres.
+DONKEY
+Your loss!
+SHREK
+Your loss!
+DONKEY
+I'm gonna just stop talking.
+SHREK
+Finally!
+DONKEY
+This is taking forever, Shrek.
+There's no in-flight movie or
+nothing!
+SHREK
+The Kingdom of Far, Far Away,
+Donkey. That's where we're going.
+Far, far --
+(softly)
+away!
+DONKEY
+All right, all right, I get it. I'm
+just so darn bored.
+SHREK
+(groans)
+Are we there yet?
+8.
+FIONA
+(chuckles)
+Yes!
+DONKEY
+Oh, finally!
+ALL exit.
+4 EXT. FAR FAR AWAY - CASTLE ENTRANCE 4
+MESSENGER
+Announcing the long-awaited return
+of the beautiful Princess Fiona and
+her new husband.
+SHREK and FIONA enter off-stage left.
+KING and QUEEN enter off-stage right.
+FIONA
+Well, this is it.
+KING
+This is it.
+MESSENGER
+This is it.
+(exits)
+SHREK
+(chuckles)
+So...you still think this was a good
+idea?
+FIONA
+Of course! Look. Mom and Dad look
+happy to see us.
+KING
+Who on earth are they?
+QUEEN
+I think that's our little girl.
+KING
+That's not little! That's a really
+big problem. Wasn't she supposed to
+kiss Prince Charming and break the
+spell?
+QUEEN
+9.
+Well, he's no Prince Charming, but
+they do look...
+SHREK
+Happy now? We came. We saw them. Now
+let's go before they light the
+torches.
+FIONA
+They're my parents.
+SHREK
+Hello? They locked you in a tower.
+FIONA
+That was for my own...
+KING
+Good! Here's our chance. Let's go
+back inside and pretend we're not
+home.
+QUEEN
+Harold, we have to be...
+SHREK
+Quick! While they're not looking we
+can make a run for it.
+FIONA
+Shrek, stop it! Everything's gonna
+be...
+KING
+A disaster! There is no way...
+FIONA
+You can do this.
+Both parties begin moving toward eachother
+SHREK
+I really...
+KING
+Really...
+QUEEN
+don't...
+SHREK
+want...
+FIONA
+10.
+to...
+KING
+be...
+SHREK
+Here!
+FIONA
+Mom... Dad...I'd like you to meet my
+husband... Shrek.
+SHREK
+Well, um...It's easy to see where
+Fiona gets her good looks from.
+(chuckles nervously)
+5 DONKEY ENTERS SHAKING OFF A GUARD 5
+DONKEY
+(off-stage)
+What do you mean, "not on the list"?
+Don't tell me you don't know who I
+am.
+(enters)
+What's happening, everybody? Thanks
+for waiting. I had the hardest time
+getting into this place.
+KING
+No! No! Bad donkey! Bad! Go!
+FIONA
+No, Dad! It's all right. It's all
+right. He's with us. He helped
+rescue me from the dragon.
+DONKEY
+That's me: the noble steed.
+SHREK
+Oh, boy.
+QUEEN
+So, Fiona, tell us about where you
+live.
+FIONA
+Well...Shrek owns his own land.
+Don't you, honey?
+SHREK
+11.
+Oh, yes! It's in an enchanted forest
+abundant in squirrels and cute
+little duckies and...
+DONKEY
+(laughing)
+What? I know you ain't talking about
+the swamp.
+KING
+An ogre from a swamp. Oh! How
+original.
+QUEEN
+I suppose that would be a fine place
+to raise the children.
+6 SHREK AND KING COUGH INVOLUNTARILY 6
+SHREK
+It's a bit early to be thinking
+about that, isn't it?
+KING
+Indeed.
+QUEEN
+Harold!
+SHREK
+What's that supposed to mean?
+FIONA
+Dad. It's great, OK?
+KING
+For his type, yes.
+SHREK
+My type?
+KING
+I suppose any grandchildren I could
+expect from you would be...
+SHREK
+Ogres, yes!
+QUEEN
+Not that there's anything wrong with
+that. Right, Harold?
+KING
+12.
+Oh, no! No! Of course, not! That is,
+assuming you don't eat your own
+young!
+FIONA
+Dad!
+SHREK
+No, we usually prefer the ones
+who've been locked away in a tower!
+FIONA
+Shrek, please!
+KING
+I only did that because I love her.
+SHREK
+Aye, day care or dragon-guarded
+castle.
+KING
+You wouldn't understand. You're not
+her father!
+QUEEN
+Harold!
+FIONA
+Shrek!
+SHREK
+Fiona!
+KING
+Fiona!
+FIONA
+Mom!
+QUEEN
+Harold...
+DONKEY
+Donkey!
+FIONA exits crying.
+7 EXT. STREETS OF FAR FAR AWAY 7
+FIONA enters, she hears the voice of FAIRY GODMOTHER
+FAIRY GODMOTHER (FG)
+13.
+Your fallen tears have called to me
+So, here comes my sweet remedy I
+know what every princess needs For
+her to live life happily...
+Both gasp.
+FG
+Oh, my dear. Oh, look at you. You're
+all grown up.
+FIONA
+Who are you?
+FG
+Oh, sweet pea! I'm your fairy
+godmother.
+FIONA
+I have a fairy godmother?
+FG
+Shush, shush. Now, don't worry. I'm
+here to make it all better. With
+just a wave of my magic wand, your
+troubles will soon be gone. For
+example, how about a sporty carriage
+to ride in style, with a sexy manboy chauffeur named Kyle?
+KYLE enters.
+FIONA
+Thank you very much, Fairy
+Godmother, but...
+SHREK enters.
+SHREK
+Fiona? Fiona.
+FIONA
+Oh, uh...Fairy Godmother... I'd like
+you to meet my husband, Shrek.
+FG
+Your husband? What? What did you
+say? When did this happen?
+FIONA
+Shrek is the one who rescued me.
+FG
+But that can't be right.
+14.
+SHREK
+Oh, great, more relatives!
+FIONA
+She's just trying to help.
+SHREK
+Good! She can help us pack. Get your
+coat, dear. We're leaving.
+FIONA
+What? I don't want to leave. When
+did you decide this?
+SHREK
+Shortly after arriving.
+FIONA
+Look, I'm sorry...
+FG
+No, that's all right. I need to go,
+anyway. But remember, dear. If you
+should ever need me...
+happiness...is just a teardrop away.
+SHREK
+Thanks, but we've got all the
+happiness we need. Happy, happy,
+happy...
+FG
+So I see. Let's go, Kyle.
+FIONA
+Very nice, Shrek.
+SHREK
+What? I told you coming here was a
+bad idea.
+FIONA
+You could've at least tried to get
+along with my father.
+SHREK
+I don't think I was going to get
+Daddy's blessing, even if I did want
+it.
+FIONA
+Do you think it might be nice if
+somebody asked me what I wanted?
+15.
+SHREK
+Sure. Do you want me to pack for
+you?
+FIONA
+You're unbelievable! You're behaving
+like a...
+SHREK
+Go on! Say it!
+FIONA
+Like an ogre!
+SHREK
+Here's a news flash for you! Whether
+your parents like it or not...I am
+an ogre! And guess what, Princess?
+That's not about to change.
+FIONA
+I've made changes for you, Shrek.
+Think about that.
+(exits)
+DONKEY
+That's real smooth, Shrek. "I'm an
+ogre!"
+8 INT. KING AND QUEEN’S BEDCHAMBER 8
+KING
+I knew this would happen.
+QUEEN
+You should. You started it.
+KING
+I can hardly believe that, Lillian.
+He's the ogre. Not me.
+QUEEN
+I think, Harold, you're taking this
+a little too personally. This is
+Fiona's choice.
+KING
+But she was supposed to choose the
+prince we picked for her. I mean,
+you expect me to give my blessings
+to this... thing?
+QUEEN
+16.
+Fiona does. And she'll never forgive
+you if you don't. I don't want to
+lose our daughter again, Harold. Oh,
+you act as if love is totally
+predictable. Don't you remember when
+we were young? We used to walk down
+by the lily pond and...
+KING
+they were in bloom...
+QUEEN
+Our first kiss.
+KING
+It's not the same! I don't think you
+realize that our daughter has
+married a monster!
+QUEEN
+Oh, stop being such a drama king.
+KING
+Fine! Pretend there's nothing wrong!
+La, di, da, di, da! Isn't it all
+wonderful! I'd like to know how it
+could get any worse!
+FG
+(out on the balcony)
+Hello, Harold.
+KING gasps.
+QUEEN
+What happened?
+KING
+Nothing, dear! Just the old crusade
+wound playing up a bit! I'll just
+stretch it out here for a while.
+FC
+We need to talk.
+KING
+Actually, Fairy Godmother, off to
+bed.
+(yawns)
+Already taken my pills, and they
+tend to make me a bit drowsy. So,
+how about... we make this a quick
+visit. What?
+17.
+(Bumps up against two
+armed guards)
+Oh, hello. Ha-ha-ha! So, what's new?
+FG
+You remember my son, Prince
+Charming?
+CHARMING enters.
+KING
+Is that you? My gosh! It's been
+years. When did you get back?
+CHARMING
+Oh, about five minutes ago,
+actually. After I endured blistering
+winds, scorching desert...I climbed
+to the highest room in the tallest
+tower...
+FG
+Mommy can handle this. He endures
+blistering winds and scorching
+desert! He climbs to the highest
+bloody room of the tallest bloody
+tower...And what does he find? Some
+gender-confused wolf telling him
+that his princess is already
+married.
+KING
+It wasn't my fault. He didn't get
+there in time.
+FG
+Harold.
+(GUARD reaches into his
+pocket)
+You’ve forced me to do something I
+really don't want to do.
+KING
+(gasps)
+What is that? What have you got
+there?
+GUARD pulls out a cellphone and gives it to FG.
+FG
+My diet is ruined! Yes, I’d like two
+Renaissance Wraps, no mayo... chili
+rings...
+18.
+CHARMING
+I'll have the Medieval Meal.
+FG
+One Medieval Meal and, Harold...
+Curly fries?
+KING
+No, thank you.
+FG
+Sourdough soft taco, then?
+KING
+No, really, I'm fine.
+FG
+Nothing else thanks.
+(hangs up)
+We made a deal, Harold, and I assume
+you don't want me to go back on my
+part.
+KING
+(sighs deeply)
+Indeed not.
+FG
+So, Fiona and Charming will be
+together.
+KING
+Yes.
+FG
+Believe me, Harold. It's what's
+best. Not only for your
+daughter...but for your Kingdom.
+KING
+What am I supposed to do about it?
+FG
+Use your imagination.
+9 INT. AT A PUB IN THE WOODS 9
+KING enters. A woman (UGLY STEPSISTER) is cleaning a glass
+with her back to the audience.
+KING
+(clears throat)
+19.
+Excuse me. Uh... excuse me. I'm
+looking for the Ugly Stepsister.
+UGLY STEPSISTER turns around to reveal herself.
+KING
+Ah! There you are. Right. You see, I
+need to have someone taken care of.
+UGLY STEPSISTER
+Who's the guy?
+KING
+Well, he's not a guy, per se. Um...
+He's an ogre.
+UGLY STEPSISTER
+Hey, buddy, let me clue you in.
+There's only one fellow who can
+handle a job like that, and,
+frankly...he don't like to be
+disturbed.
+KING
+Where could I find him?
+UGLY STEPSISTER point to the dark corner of the room.
+KING
+Hello?
+MYSTERIOUS VOICE
+Who dares speak to me?
+KING
+Sorry! I hope I'm not interrupting,
+but I'm told you're the one to talk
+to about an ogre problem?
+VOICE
+You are told correct. But for this,
+I charge a great deal of money.
+KING
+Would... this be enough?
+(holds up a heavy satchel
+of coins)
+VOICE
+You have engaged my valuable
+services, Your Majesty. Just tell me
+where I can find this ogre.
+20.
+10 INT. CASTLE 10
+SHREK is alone reading FIONA’s diary.
+FIONA (OFFSTAGE)
+Dear Diary... Sleeping Beauty is
+having a slumber party tomorrow, but
+Dad says I can't go. He never lets
+me out after sunset. Dad says I'm
+going away for a while. Must be like
+some finishing school. Mom says that
+when I'm old enough, my Prince
+Charming will rescue me from my
+tower and bring me back to my
+family, and we'll all live happily
+ever after. Mrs. Fiona Charming.
+Mrs. Fiona Charming. Mrs. Fiona
+Charming.
+A knock on door.
+KING
+Sorry. I hope I'm not interrupting
+anything.
+SHREK
+No, no. I was just reading a, uh...
+a scary book.
+KING
+I was hoping you'd let me apologize
+for my despicable behavior earlier.
+SHREK
+Okay...
+KING
+I don't know what came over me. Do
+you suppose we could pretend it
+never happened and start over...
+SHREK
+Look, Your Majesty, I just...
+KING
+Please. Call me Dad.
+SHREK
+Dad. We both acted like ogres. Maybe
+we just need some time to get to
+know each other.
+KING
+21.
+Excellent idea! I was actually
+hoping you might join me for a
+morning hunt. A little father-son
+time? I know it would mean the world
+to Fiona. Shall we say, by the old
+oak?
+SHREK
+Sure.
+FADE OUT:
+11 EXT. IN THE FOREST 11
+SHREK
+Face it, Donkey! We're lost.
+DONKEY
+We can't be lost. We followed the
+King's instructions exactly. "Head
+to the darkest part of the
+woods...""Past the sinister trees
+with scary-looking branches." The
+bush shaped like Shirley Bassey!
+SHREK
+We passed that three times already!
+DONKEY
+You were the one who said not to
+stop for directions.
+SHREK
+Oh, great. My one chance to fix
+things up with Fiona's dad and I end
+up lost in the woods with you!
+DONKEY
+Don't get huffy! I'm only trying to
+help.
+SHREK
+I know! I know. I'm sorry, all
+right?
+DONKEY
+Hey, don't worry about it.
+SHREK
+I just really need to make things
+work with this guy.
+DONKEY
+22.
+Yeah, sure. Now let's go bond with
+Daddy.
+SHREK hears purring.
+SHREK
+Well, well, well, Donkey. I know it
+was kind of a tender moment back
+there, but the purring?
+DONKEY
+What? I ain't purring.
+SHREK
+Sure. What's next? A hug?
+DONKEY
+Hey, Shrek. Donkeys don't purr. What
+do you think I am, some kind of a...
+PUSS IN BOOTS enters.
+PUSS
+Ha-ha! Fear me, if you dare!
+SHREK
+Look! A little cat.
+DONKEY
+Look out, Shrek! He got a piece!
+SHREK
+It's a cat, Donkey. Come here,
+little kitty, kitty. Come on, little
+kitty. Come here.
+PUSS scratches SHREK’s outstretched hand.
+PUSS
+Now, ye ogre, pray for mercy
+from...Puss... in Boots!
+SHREK
+I'll kill that cat!
+PUSS
+Ah-ha-ha!
+(coughs, wheezes, retches,
+coughs, chuckles)
+Hairball.
+DONKEY
+Oh! That is nasty!
+23.
+SHREK
+What should we do with him?
+DONKEY
+Take the sword and neuter him.
+PUSS
+Oh, no! Por favor! Please! I implore
+you! It was nothing personal, Señor.
+I was doing it only for my family.
+My mother, she is sick. And my
+father lives off the garbage! The
+King offered me much in gold and I
+have a litter of brothers...
+SHREK
+Whoa, whoa, whoa! Fiona's father
+paid you to do this?
+PUSS
+The rich King? Sí.
+SHREK
+Well, so much for Dad's royal
+blessing.
+DONKEY
+Don't feel bad. Almost everybody
+that meets you wants to kill you.
+SHREK
+Maybe Fiona would've been better off
+if I were some sort of Prince
+Charming.
+PUSS
+That's what the King said. Oh, uh...
+sorry. I thought that question was
+directed at me.
+DONKEY
+Shrek, Fiona knows you'd do anything
+for her.
+SHREK
+Well, it's not like I wouldn't
+change if I could. I just... I just
+wish I could make her happy. Hold
+the phone... "Happiness. Just a tear
+drop away." Donkey! Think of the
+saddest thing that's ever happened
+to you!
+DONKEY
+24.
+Aw, man, where do I begin? First
+there was the time that old farmer
+tried to sell me for some magic
+beans. Then this fool had a party
+and he have the guests trying to pin
+the tail on me. Then they got drunk
+and start beating me with a stick,
+going "Piñata!!" What is a piñata,
+anyway?
+SHREK
+No, Donkey! I need you to cry!
+DONKEY
+Don't go projecting on me. I know
+you're feeling bad, but you got to
+(Puss steps on his foot)
+Aaaahhh! You little, hairy, litterlicking sack of...
+KYLE enters with a cart.
+KYLE
+Fairy Godmother is away from desk or
+with a client. But I can help you
+with your ‘Happiness problems’
+(yawns)
+FAIRY GODMOTHER enters and Kyle stands up straight very
+quickly.
+FG
+Kyle, I’ve been looking everywhere
+for you! Why aren’t you
+(notices SHREK)
+What in Grimm's name are you doing
+here?
+SHREK
+Well, um, it seems that Fiona's not
+exactly happy.
+FG
+Oh-ho-ho! And there's some question
+as to why that is? Well, let's
+explore that, shall we?
+Cinderella."Lived happily ever
+after." No ogres! Snow White. A
+handsome prince. Oh, no ogres.
+Sleeping Beauty. No ogres! Hansel
+and Gretel? No! Thumbelina? No. the
+Little Mermaid, Pretty Woman...No,
+no, no! You see, ogres don't live
+happily ever after.
+25.
+SHREK
+All right, look, lady!
+FG
+Don't you point...those dirty green
+sausages at me!
+KYLE opens the cart to get a soda and SHREK notices the
+potions.
+SHREK
+Ah... that's okay. We’ll go. Very
+sorry to have wasted your time, Miss
+Godmother.
+FG
+I need a Monte Cristo Sandwich now.
+You’ve got me all worked up.
+(exits)
+SHREK looks at KYLE, smiles, then knocks him out.
+DONKEY
+Shrek, are you off your nut?
+SHREK
+Donkey, quiet and keep watch.
+DONKEY
+Keep watch? Yeah, I'll keep watch.
+I'll watch that wicked witch come
+and whammy a world of hurt up your
+backside. I'll laugh, too. I'll be
+giggling to myself.
+SHREK opens the cart and passes potions to PUSS.
+PUSS
+Toad Stool Softener? Elfa Seltzer?
+Hex Lax?
+SHREK
+Help me find "handsome."
+PUSS
+Hey! How about "Happily Ever After"?
+SHREK
+Well, what does it do?
+PUSS
+It says "Beauty Divine."
+SHREK
+26.
+That'll have to do. She’s coming
+back. Go, Donkey!
+ALL exit. FG enters, with CHARMING following after.
+FG
+What happened here? Kyle! Clean this
+up.
+CHARMING
+Mother!
+FG
+This isn't a good time, pumpkin.
+Mama's working.
+CHARMING
+Whoa, what happened here?
+FG
+The ogre, that's what!
+CHARMING
+What? Where is he, Mom? I shall rend
+his head from his shoulders! I will
+smite him where he stands! He will
+rue the very day he stole my kingdom
+from me!
+FG
+Oh, put it away, Junior! You're
+still going to be king. We'll just
+have to come up with something
+smarter.
+KYLE
+Pardon. Um...Everything is accounted
+for, Fairy Godmother, except for one
+potion.
+FG
+What?
+(looks in the cart)
+Oh...I do believe we can make this
+work to our advantage.
+12 INT. THE ROYAL CASTLE 12
+QUEEN
+Try to at least pretend you're
+interested in your daughter's
+wedding ball.
+27.
+KING
+Honestly, Lillian, I don't think it
+matters. How do we know there will
+even be a ball?
+FIONA
+Mom. Dad.
+KING
+Oh, hello, dear. What's that,
+Cedric? Right! Coming.
+FIONA
+Mom, have you seen Shrek?
+QUEEN
+I haven't. You should ask your
+father. Be sure and use small words,
+dear. He's a little slow this
+morning.
+CEDRIC
+Can I help you, Your Majesty?
+KING
+Ah, yes! Um...Mmm! Exquisite. What
+do you call this dish?
+CEDRIC
+That would be the dog's breakfast,
+Your Majesty.
+KING
+Ah, yes. Very good, then. Carry on,
+Cedric.
+FIONA
+Dad? Dad, have you seen Shrek?
+KING
+No, I haven't, dear. I'm sure he
+just went off to look for a nice...
+mud hole to cool down in. You know,
+after your little spat last night.
+FIONA
+Oh. You heard that, huh?
+KING
+The whole kingdom heard you. I mean,
+after all, it is in his nature to
+be…well, a bit of a brute.
+FIONA
+28.
+Him? You know, you didn't exactly
+roll out the Welcome Wagon.
+KING
+Well, what did you expect? Look at
+what he's done to you.
+FIONA
+Shrek loves me for who I am. I would
+think you'd be happy for me.
+KING
+Darling, I'm just thinking about
+what's best for you. Maybe you
+should do the same.
+13 EXT. FOREST 13
+SHREK
+(reading the potion)
+"Happily Ever After Potion. Maximum
+strength. For you and your true
+love. If one of you drinks this, you
+both will be fine. Happiness,
+comfort and beauty divine." You both
+will be fine? I guess it means it'll
+affect Fiona, too.
+DONKEY
+Hey, man, this don't feel right. My
+donkey senses are tingling all over.
+Drop that jug o' voodoo and let's
+get out of here.
+SHREK
+It says, "Beauty Divine." How bad
+can it be?
+(sniffs the potion and
+sneezes)
+DONKEY
+See, you're allergic to that stuff.
+You'll have a reaction. And if you
+think that I'll be smearing Vapor
+Rub over your chest, think again!
+SHREK
+Well, here's to us, Fiona.
+DONKEY
+Shrek? You drink that, there's no
+going back.
+29.
+SHREK
+I know.
+DONKEY
+No more wallowing in the mud?
+SHREK
+I know.
+DONKEY
+No more itchy butt crack?
+SHREK
+I know!
+DONKEY
+But you love being an ogre!
+SHREK
+I know! But I love Fiona more.
+DONKEY
+Shrek, no! Wait!
+SHREK drinks the potion. There’s a long pause then he farts.
+DONKEY
+I think you grabbed the "Farty Ever
+After" potion.
+PUSS
+Maybe it's a dud.
+SHREK
+Or maybe Fiona and I were never
+meant to be.
+Thunder cracks and he passes out
+DONKEY
+Shrek!
+Black out.
+FADE IN:
+FIONA enters with her luggage.
+KING
+There you are! We missed you at
+dinner. What is it, darling?
+FIONA
+30.
+Dad...I've been thinking about what
+you said. And I'm going to set
+things right.
+KING
+Ah! Excellent! That's my girl.
+FIONA
+It was a mistake to bring Shrek
+here. I'm going to go out and find
+him. And then we'll go back to the
+swamp where we belong.
+QUEEN
+Fiona, please! Let's not be rash,
+darling. You can't go anywhere right
+now.
+Thunder cracks again and FIONA collapses.
+KING
+Fiona!
+14 INT. IN THE BARN - MORNING 14
+SISTER
+Good morning, sleepyhead. I love
+your kitty!
+SHREK
+Oh... My head...
+SISTER
+Here, I fetched a pail of water.
+SHREK
+Thanks. Uhh!
+(sees his reflection in
+the pale)
+Aahh! A cute button nose? Thick,
+wavy locks? Taut, round buttocks?
+I'm... I'm...
+SISTER
+Gorgeous!
+(moves in closer)
+I'm Jill. What's your name?
+SHREK
+Um... Shrek.
+SISTER
+Shrek? Wow. Are you from Europe?
+31.
+SHREK looks around confused.
+SISTER
+You're tense. I want to rub your
+shoulders.
+SHREK
+Have you seen my donkey?
+DONKEY enters and begins studying SHREK, followed by PUSS.
+DONKEY
+Wow! That's some quality potion,
+Shrek! What's in that stuff?
+PUSS
+"Warning: Side effects may include
+burning, itching, oozing, weeping.
+Not intended for heart patients or
+those with... nervous disorders."
+SHREK
+What?
+PUSS
+Señor? "To make the effects of this
+potion permanent, the drinker must
+obtain his true love's kiss by
+midnight."
+SHREK
+Midnight?
+DONKEY
+Why is it always midnight?
+SISTER
+Pick me! I'll be your true love!
+SHREK
+Look, lady, I already have a true
+love.
+SISTER
+Oh...
+PUSS
+Take it from me, Boss. You are going
+to have one satisfied Princess.
+DONKEY
+And let's face it. Even though you
+are a lot easier on the eyes, inside
+you're the same old mean, salty...
+32.
+SHREK
+(simultaneously)
+Easy.
+DONKEY
+...cantankerous, foul, angry ogre
+you always been.
+SHREK
+And you're still the same annoying
+donkey.
+DONKEY
+(Bashful)
+Yeah.
+SHREK
+Well...Look out, Princess. Here
+comes the new me.
+DONKEY
+First things first. We need to get
+you out of those clothes.
+SISTER gasps.
+15 EXT. THE CASTLE GATE 15
+GUARD
+Halt!
+SHREK
+Tell Princess Fiona her husband, Sir
+Shrek, is here to see her.
+FIONA wakes up as a human and looks at herself in the mirror.
+She screams.
+SHREK
+Fiona!
+FIONA
+Shrek?
+SHREK runs into FIONA’s room as FIONA runs down to the castle
+gates. FG enters the room just before SHREK, she is cloaked.
+SHREK
+Fiona?
+FG
+Hello, handsome.
+33.
+FIONA
+Shrek!
+DONKEY
+Princess!
+FIONA
+Donkey?
+DONKEY
+Wow! That potion worked on you, too?
+FIONA
+What potion?
+DONKEY
+Shrek took some magic potion. And
+well...Now, he’s sexy!
+FIONA
+(looking at PUSS)
+Shrek?
+PUSS
+For you, baby... I could be.
+DONKEY
+Yeah, you wish.
+FIONA
+Donkey, where is Shrek?
+DONKEY
+He went inside looking for you.
+DONKEY and PUSS exit.
+FIONA
+Shrek?
+SHREK
+Fiona! Fiona!
+FG
+(blocks his exit with her
+wand)
+Are you going so soon? Don't you
+want to see your wife?
+CHARMING enters.
+CHARMING
+Fiona?
+34.
+FIONA
+Shrek?
+CHARMING
+Aye, Fiona. It is me. What happened
+to your voice?
+SHREK
+The potion changed a lot of things,
+Fiona. But not the way I feel about
+you.
+KING and QUEEN enter.
+QUEEN
+Fiona?
+KING
+Charming?
+CHARMING
+(showing off outfit)
+Do you think so?
+(laughs)
+Dad. I was so hoping you'd approve.
+QUEEN
+Um... Who are you?
+KING
+Mom, it's me, Shrek. I know you
+never get a second chance at a first
+impression, but, well, what do you
+think?
+(Hugs FIONA)
+SHREK
+Fiona! Fiona!
+FG
+Fiona, Fiona! Ho-ho-ho! Oh, shoot! I
+don't think they can hear us,
+pigeon.
+(sighs deeply)
+Don't you think you've already
+messed her life up enough?
+SHREK
+I just wanted her to be happy.
+FG
+And now she can be. Oh, sweetheart.
+She's finally found the prince of
+her dreams.
+35.
+SHREK
+But look at me. Look what I've done
+for her.
+FG
+It's time you stop living in a fairy
+tale, Shrek. She's a princess, and
+you're an ogre. That's something no
+amount of potion will ever change.
+SHREK
+But...I love her.
+FG
+If you really love her... you'll let
+her go.
+SHREK leaves.
+16 INT. THE UGLY STEPSISTER’S TAVERN 16
+SISTER
+Here you go, boys.
+PUSS
+Just leave the bottle, Doris.
+SISTER
+Hey. Why the long face?
+SHREK
+It was all just a stupid mistake. I
+never should have rescued her from
+that tower in the first place.
+PUSS
+I hate Mondays.
+DONKEY
+I can't believe you'd walk away from
+the best thing that happened to you.
+SHREK
+What choice do I have? She loves
+that pretty boy, Prince Charming.
+DONKEY
+Come on. Is he really that goodlooking?
+SISTER
+Are you kidding? He's gorgeous! He
+has a face that looks like it was
+36.
+carved by angels.
+PUSS
+Oh. He sounds dreamy.
+SHREK
+You know...shockingly, this isn't
+making me feel any better. Look,
+guys. It's for the best. Mom and Dad
+approve, and Fiona gets the man
+she's always dreamed of. Everybody
+wins.
+DONKEY
+Except for you. I don't get it,
+Shrek. You love Fiona.
+SHREK
+Aye. And that's why I have to let
+her go.
+KING enters in a cloak, at the back of the tavern.
+KING
+Excuse me, is she here?
+GUARD
+She's, uh... in the back.
+KING
+Oh, hello again. Fairy Godmother.
+Charming.
+FG
+You'd better have a good reason for
+dragging us down here, Harold.
+KING
+Well, I'm afraid Fiona isn't
+really... warming up to Prince
+Charming.
+CHARMING
+FYI, not my fault.
+FG
+No, of course it's not, dear.
+CHARMING
+I mean, how charming can I be when I
+have to pretend I'm that dreadful
+ogre?
+KING
+37.
+No, no, it's nobody's fault. Perhaps
+it's best if we just call the whole
+thing off, okay?
+FG AND CHARMING
+What?
+KING
+You can't force someone to fall in
+love!
+FG
+I beg to differ. I do it all the
+time!
+(pulls out a magical
+potion from her bag)
+Have Fiona drink this and she'll
+fall in love with the first man she
+kisses, which will be Charming.
+KING
+Umm... no.
+FG
+What did you say?
+KING
+I can't. I won't do it.
+FG
+Oh, yes, you will. If you remember,
+I helped you with your happily ever
+after. And I can take it away just
+as easily. Is that what you want? Is
+it?
+KING
+No.
+FG
+Good boy. Now, we have to go. I need
+to do Charming's hair before the
+ball. He's hopeless. He's all high
+in the front. He can never get to
+the back. You need someone to do the
+back.
+CHARMING
+Oh. Thank you, Mother.
+DONKEY
+Mother?
+FG
+38.
+The ogre! Stop them! Stop them!
+The guards grab SHREK, DONKEY and PUSS and all exit.
+17 INT. THE CASTLE 17
+The KING enters with a pair of tea cups. He pours the poison
+into one of them, just before FIONA enters.
+KING
+Darling? Ah. I thought I might find
+you here. How about a nice hot cup
+of tea before the ball?
+FIONA
+I'm not going.
+KING
+The whole Kingdom's turned out to
+celebrate your marriage.
+FIONA
+There's just one problem. That's not
+my husband. I mean, look at him.
+KING
+Yes, he is a bit different, but
+people change for the ones they
+love. You'd be surprised how much I
+changed for your mother.
+FIONA
+Change? He's completely lost his
+mind!
+KING
+Why not come down to the ball and
+give him another chance? You might
+find you like this new Shrek.
+FIONA
+But it's the old one I fell in love
+with, Dad. I'd give anything to have
+him back.
+(reached for one of the
+tea cups)
+KING
+Darling. That's mine. Decaf.
+Otherwise I'm up all night.
+FIONA
+39.
+(drinking from the other
+cup)
+Thanks.
+18 INT. THE DUNGEON 18
+DONKEY
+I got to get out of here! I got to
+get out of here! You can't lock us
+up like this! Let me go! What about
+my Miranda rights? You're supposed
+to say I have the right to remain
+silent. Nobody said I have the right
+to remain silent!
+SHREK
+You HAVE the right to remain silent.
+What you lack is capacity.
+PUSS
+I must hold on before I, too, go
+totally mad.
+PINOCHIO
+Shrek? Donkey?
+PUSS
+Too late.
+SHREK
+Gingy! Pinocchio! Get us out of
+here!
+GINGY
+Quick! Tell a lie!
+PINOCHIO
+What should I say?
+SHREK
+Anything, but quick!
+GINGY
+Say something crazy like, "I'm
+wearing LADIES' UNDERWEAR!"
+PINOCHIO
+I am wearing ladies' underwear.
+SHREK
+Are you?
+PINOCHIO
+40.
+I most certainly am not!
+(his nose grows)
+DONKEY
+It looks like you most certainly am
+are!
+PINOCHIO
+I am not!
+PUSS
+What kind?
+GINGY
+(looking in the back of
+PINOCHIO’s LEDERHOSEN)
+IT'S A THONG!
+PINOCHIO
+Oww! They're briefs!
+GINGY
+Are not.
+PINOCHIO
+Are too!
+GINGY
+Here we go. Hang tight.
+(picks the lock WITH
+PINOCHIO’S NOSE)
+SHREK
+Okay boys! We've got to stop that
+kiss!
+DONKEY
+I thought you was going to let her
+go.
+SHREK
+I was, but I can't let them do this
+to Fiona.
+DONKEY
+Boom! That's what I like to hear.
+Look who's coming around!
+PINOCHIO
+It's impossible! You'll never get
+in. The castle's guarded. There's a
+moat and everything!
+(nose shrinks back down)
+41.
+GINGY
+Folks, it looks like we're up
+chocolate creek without a Popsicle
+stick.
+SHREK
+Don’t worry guys, I have a plan. To
+the castle!
+19 INT. THE ROYAL BALL 19
+ROYAL MESSENGER
+Ladies and gentlemen. Presenting
+Princess Fiona and her new husband,
+Prince Shrek.
+AUDIENCE applauses, cheering. CHARMING begins waving and
+encouraging the audience.
+FIONA
+Shrek, what are you doing?
+CHARMING
+I'm just playing the part, Fiona.
+FIONA
+Is that glitter on your lips?
+CHARMING
+Mm. Cherry flavored. Want to taste?
+FIONA
+Ugh! What is with you?
+CHARMING
+But, Muffin Cake...
+FIONA gets fed up and turns to leave, CHARMING looks at FG
+for help.
+FG
+(Sotto Voce)
+Play something! Now!
+(turns to the AUDIENCE)
+Ladies and gentlemen. I'd like to
+dedicate this song to... Princess
+Fiona and Prince Shrek.
+CHARMING
+Fiona, my Princess. Will you honor
+me with a dance?
+AUDIENCE
+42.
+Dance! Dance!
+FIONA
+Since when do you dance?
+CHARMING
+Fiona, my dearest, if there's one
+thing I know, it's that love is full
+of surprises.
+OUTSIDE THE BALL
+All right, fellas! Let's crash this
+party!
+GUARD
+Halt right there!
+GINGY
+Make me!
+GUARD grabs GINGY by the collar.
+GINGY
+Not the gumdrop button!
+DONKEY and PUSS grab the GUARD.
+DONKEY
+Go! Go! Your lady needs you! Go!
+SHREK exits.
+PUSS
+Today, I repay my debt.
+GUARD yells and is chased offstage by PUSS. DONKEY, PINOCHIO
+and GINGY FOLLOW.
+SHREK
+Stop! Hey, you! Back away from my
+wife.
+FIONA
+Shrek?
+FG
+You couldn't just go back to your
+swamp and leave well enough alone.
+SHREK
+Pinocchio! Get the wand!
+PINOCHIO runs for the wand but gets zapped along the way. His
+‘PINOCHIO’ nose is gone.
+43.
+PINOCHIO
+I'm a real boy!
+The WOLF barges in and blows the wand out of FG’s hand, GINGY
+picks it up and accidentally zaps PINOCHIO, his wooden nose
+appears again.
+PINOCHIO
+I'm a real boy. Aah! Oh.
+FG
+That's mine!
+PUSS and DONKEY enter.
+DONKEY
+Pray for mercy, from Puss...
+PUSS
+and Donkey!
+FG
+She's taken the potion! Kiss her
+now!
+CHARMING kisses FIONA.
+SHREK
+No!
+CHARMING and FIONA look at eachother longingly, SHREK is
+heartbroken.
+FIONA
+(headbutting CHARMING)
+Hya!
+ALL gasp.
+SHREK
+Fiona.
+FIONA
+Shrek.
+SHREK and FIONA embrace.
+FG
+Harold! You were supposed to give
+her the potion!
+KING
+Well, I guess I gave her the wrong
+tea.
+44.
+CHARMING
+(snatching the wand and
+tossing it back to FG)
+Mommy!
+FIONA
+Mommy?
+FG
+I told you. Ogres don't live happily
+ever after.
+FG tries to zap SHREK but KING grabs the wand. They both
+disappear.
+FIONA
+Oh, Dad!
+(sobbing)
+PINOCHIO
+Is he...?
+GINGY
+Yup. He croaked.
+Croak sound can be heard. FIONA picks up a frog.
+QUEEN
+Harold?
+FIONA
+Dad?
+KING
+I'd hoped you'd never see me like
+this.
+DONKEY
+And he gave you a hard time!
+SHREK
+Donkey!
+KING
+No, no, he's right. I'm sorry. To
+both of you. I only wanted what was
+best for Fiona. But I can see now...
+she already has it. Shrek, Fiona...
+Will you accept an old frog's
+apologies... and my blessing?
+QUEEN
+Harold?
+45.
+KING
+I'm sorry, Lillian. I just wish I
+could be the man you deserve.
+UEEN
+You're more that man today than you
+ever were... warts and all.
+Clock chimes.
+PUSS
+Boss! The Happily Ever After Potion!
+SHREK
+Midnight! Fiona. Is this what you
+want? To be this way forever?
+FIONA
+What?
+SHREK
+Because if you kiss me now... we can
+stay like this.
+FIONA
+You'd do that? For me?
+SHREK
+Yes.
+FIONA
+I want what any princess wants. To
+live happily ever after,
+(SHREK leans in to kiss
+her but she stops him)
+with the ogre I married.
+PUSS
+Whatever happens, I must not cry!
+You cannot make me cry!
+(sobs)
+Clock chimes. Flashing lights, as the crowd gathers round and
+reveals the ogre SHREK and FIONA.
+SHREK
+Now, where were we? Oh. I remember.
+FADE OUT:
+Spotlight on DONKEY.
+DONKEY
+46.
+Hey! Isn't we supposed to be having
+a fiesta?
+FANFARE
+THE END.

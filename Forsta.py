@@ -1,25 +1,44 @@
 from logging.handlers import BaseRotatingHandler
+import string
+import time
 
 
 
+
+
+
+open1 = time.time()
 file = open('skriv.txt','r', encoding='utf8')
+open2 = time.time()
 new_dict=dict()
+read1 = time.time()
 read_data = file.read()
+split1 = time.time()
 split_data = read_data.split()
+split2 = time.time()
 for line in split_data:
-    stripped_line = line.strip()
+    stripped_line = line.strip().lower()
     if stripped_line in new_dict.keys():
         new_dict[stripped_line] = int(new_dict.get(stripped_line))+1
     else: new_dict[stripped_line] = 1
+klar2 = time.time()
 
-
+sort1 = time.time()
 sorted_keys = sorted(new_dict, key=new_dict.get, reverse=True)  # [1, 3, 2]
 sorted_dict = {}
 for w in sorted_keys:
     sorted_dict[w] = new_dict[w]
-
+sort2 = time.time()
 top = list(sorted_dict.items())[:20] #gör en lista av dem N (här 20) första elementen i dictionary
+tid = ((sort2-open1)*1000)
 print(top)
+print(tid)
+# print("It take" + (string)(open2 - open1) + "seconds to open the file")
+# print("It take" + (split1 - read1) + "seconds to read the file")
+# print("It take" + (split2 - split1) + "seconds to split the file")
+# print("It take" + (split2 - klar2) + "seconds to go through the file")
+# print("It take" + (sort2 - sort1) + "seconds to sort the data ")
+# print("It take" + (sort2 - open1) + "seconds to execute the file")
 
 
 #function that consider last element as pivot,   
