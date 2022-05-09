@@ -7,7 +7,7 @@ import time
 
 
 
-for i in range(1, 101):
+for i in range(1, 501):
 
     open1 = time.time()
     file = open('skriv.txt','r', encoding='utf8')
