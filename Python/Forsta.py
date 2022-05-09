@@ -7,9 +7,9 @@ import time
 
 
 
-for i in range(1, 501):
-
-    open1 = time.time()
+for i in range(1, 10001):
+    
+    open1 = time.perf_counter()
     file = open('skriv.txt','r', encoding='utf8')
     new_dict=dict()
     read_data = file.read()
@@ -26,8 +26,8 @@ for i in range(1, 501):
         sorted_dict[w] = new_dict[w]
     top = list(sorted_dict.items())[:20] #gör en lista av dem N (här 20) första elementen i dictionary
 
-    totTid = (time.time() - open1) * 1000
-
+    totTid = (time.perf_counter() -  open1) * 1000
+   
 
     filePath = 'dinmamma.txt'
     with open (filePath, "a") as x:
